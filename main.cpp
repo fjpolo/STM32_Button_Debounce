@@ -26,6 +26,7 @@ void button1_onpressed_cb(void)
 int main()
 {
     printf("mBed boot done\n");
+    printf("Welcome yo\n");
     printf("Press user button to toggle LED\n");
 
     //button1.mode(PullUp); // Activate pull-up
